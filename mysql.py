@@ -92,4 +92,3 @@ def get_table_data(sql_txt, data_config):
     #                "端口": "3309"}
     # sql_txt = f"""select * from {table_data["数据库表名"]} where data_time_period = '{table_data["时间周期"]}' order by acquisition_time"""
 
-print("aaa")
